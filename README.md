@@ -12,7 +12,7 @@ vue-imgpreview 是一个基于 Vue.js 2.0 开发的移动端图片预览插件�
 
       npm install vue-imgpreview
 
-####使用
+#### 使用
 ---
 main.js
 
@@ -43,6 +43,6 @@ export default {
 </script>
 ```
 
-####效果
+#### 效果
 ---
 ![预览效果](https://github.com/sufengyong/vue-imgpreview/blob/master/demo.gif)
