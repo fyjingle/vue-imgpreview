@@ -1,18 +1,18 @@
-### vue-imgpreview
+## vue-imgpreview
 ---
 
 >Picture preview plugin for Vue.js2.0
 
-#### 简介  
+### 简介  
 ---
 vue-imgpreview 是一个基于 Vue.js 2.0 开发的移动端图片预览插件，可达到常见 app 图片预览效果，支持单指拖动、双指缩放等多个场景下的手势操作  
 
-#### 安装
+### 安装
 ---
 
       npm install vue-imgpreview
 
-#### 使用
+### 使用
 ---
 main.js
 
@@ -43,6 +43,6 @@ export default {
 </script>
 ```
 
-#### 效果
+### 效果
 ---
 ![预览效果](https://github.com/sufengyong/vue-imgpreview/blob/master/demo.gif)
