@@ -1,4 +1,4 @@
-###vue-imgpreview
+### vue-imgpreview
 ---
 
 >Picture preview plugin for Vue.js2.0
